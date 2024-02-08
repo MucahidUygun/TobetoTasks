@@ -1,0 +1,14 @@
+D:\TobetoAsncExample\TobetoTasks\OOP1\bin\Debug\net8.0\OOP1.exe
+D:\TobetoAsncExample\TobetoTasks\OOP1\bin\Debug\net8.0\OOP1.deps.json
+D:\TobetoAsncExample\TobetoTasks\OOP1\bin\Debug\net8.0\OOP1.runtimeconfig.json
+D:\TobetoAsncExample\TobetoTasks\OOP1\bin\Debug\net8.0\OOP1.dll
+D:\TobetoAsncExample\TobetoTasks\OOP1\bin\Debug\net8.0\OOP1.pdb
+D:\TobetoAsncExample\TobetoTasks\OOP1\obj\Debug\net8.0\OOP1.GeneratedMSBuildEditorConfig.editorconfig
+D:\TobetoAsncExample\TobetoTasks\OOP1\obj\Debug\net8.0\OOP1.AssemblyInfoInputs.cache
+D:\TobetoAsncExample\TobetoTasks\OOP1\obj\Debug\net8.0\OOP1.AssemblyInfo.cs
+D:\TobetoAsncExample\TobetoTasks\OOP1\obj\Debug\net8.0\OOP1.csproj.CoreCompileInputs.cache
+D:\TobetoAsncExample\TobetoTasks\OOP1\obj\Debug\net8.0\OOP1.dll
+D:\TobetoAsncExample\TobetoTasks\OOP1\obj\Debug\net8.0\refint\OOP1.dll
+D:\TobetoAsncExample\TobetoTasks\OOP1\obj\Debug\net8.0\OOP1.pdb
+D:\TobetoAsncExample\TobetoTasks\OOP1\obj\Debug\net8.0\OOP1.genruntimeconfig.cache
+D:\TobetoAsncExample\TobetoTasks\OOP1\obj\Debug\net8.0\ref\OOP1.dll
